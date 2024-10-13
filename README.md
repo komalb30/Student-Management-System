@@ -1,6 +1,6 @@
 # Student-Management-System
 
-The Student Management System is a web application built with Java, Spring Boot, and SQL, designed to help educational institutions manage student information efficiently. This system allows administrators to handle student records, course enrollments, and academic performance seamlessly.
+The Student Management System is a web application built with Java, Spring Boot, and SQL, designed to help educational institutions manage student information efficiently. This system allows administrators to handle student data and course enrollments seamlessly.
 
 ## Features
 
