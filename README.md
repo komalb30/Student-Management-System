@@ -1,3 +1,18 @@
 # Student-Management-System
 
-A Student Management System (SMS) is a comprehensive software application designed to streamline and automate the various administrative and academic processes within an educational institution.
+The Student Management System is a web application built with Java, Spring Boot, and SQL, designed to help educational institutions manage student information efficiently. This system allows administrators to handle student records, course enrollments, and academic performance seamlessly.
+
+## Features
+
+- **Student Profiles:** Full CRUD functionality for managing student profiles.
+- **Course Management:** Add, update, and delete courses, and assign them to students.
+- **Enrollment Management:** Enroll students in courses and track.
+
+
+## Technologies Used
+
+- **Java:** Backend programming language.
+- **Spring Boot:** Framework for building the application.
+- **SQL (MySQL):** Database management system.
+
+  
